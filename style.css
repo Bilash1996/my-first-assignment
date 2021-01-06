@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.half-width{
+    padding: 2%;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+
+}
+.name{
+    color: blueviolet;
+}
+.hello{
+    color: chartreuse;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato );
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+h1{
+    font-size: 50px;
+}
+.project{
+   
+}
+h2{
+    text-align: center;
+}
+.pro img{
+    height: 20%;
+    width: 20%;
+    padding-left: 5%;
+}
+.pro{ 
+     float: left;
+}
+.last-part{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
